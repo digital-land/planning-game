@@ -3,7 +3,7 @@
 
 ## About this game
 
-A Game about Planning, where players will explore
+A Fun game about Planning, where players will explore
 
 - communities & their needs
 - planning complexity and trade-offs
@@ -15,11 +15,16 @@ Add info here
 
 ## The Format
 
-A minimum of X teams
-Introduction to planning and the game mechanics
-Four 20-minute rounds
-Presentations
-Group voting
+This is a big room game that needs a minimum of X teams sitting on different tables.
+
+It should include:
+
+* Introduction to planning
+* Introduction to the game mechanics
+* Four 20-minute rounds
+* Presentations
+* Group voting
+* Awards
 
 ## The four Rounds
 
