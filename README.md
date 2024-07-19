@@ -1,6 +1,5 @@
 # The Planning Game
-
-ADD IMAGE
+<img src="theplanninggame.png" width=700px>
 
 ## About this game
 
