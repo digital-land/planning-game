@@ -30,6 +30,8 @@ In this round, teams will create and name their towns.
 
 They will learn more about the needs of their community and start to gather ideas about improving their towns
 
+[Round 1 Rules][https://github.com/digital-land/planning-game/blob/main/Rules-round-1.md]
+
 LINK TO ROUND RULES IN IN MARKDOWN AND MASTER RULES PDF, LINK TO FACILITATORS GUIDE FOR ROUND 1
 
 ### Round 2 Growing Your Town. (20mins)
