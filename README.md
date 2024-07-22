@@ -69,6 +69,7 @@ It’s time for teams to create a Local Plan for their town based on your previo
 * [Rules for all 4 rounds (printable pdf)](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20game%20All%20Round%20rules.pdf)
 * A set of planning game tiles - TO ADD
 * Planning game Town cards - TO ADD
+* [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
 * A town profile - TO ADD
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
