@@ -3,11 +3,15 @@
 
 ## About this game
 
-A Fun game about Planning, where players will explore
+This game was created for an away day, with the intention of connecting people to each other and learning a bit about planning.
+
+A Fun game about Planning where players will explore
 
 - communities & their needs
 - planning complexity and trade-offs
 - regional priorities
+
+-Add Photo of people playing the game-
   
 ## Who is it for
 
@@ -55,6 +59,27 @@ LINK TO ROUND RULES IN MARKDOWN AND MASTER RULES PDF, LINK TO FACILITATORS GUIDE
 It’s time for teams to create a Local Plan for their town based on your previous decisions. After this round, you will present it to the rest of the room.
 
 LINK TO ROUND RULES IN MARKDOWN AND MASTER RULES PDF, LINK TO FACILITATORS GUIDE FOR ROUND 4
+
+## Materials and printouts needed
+
+## Each table will need
+
+* One set of rules for the 4 rounds for each table ([printable pdf here](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20game%20All%20Round%20rules.pdf))
+* A set of planning game tiles - TO ADD
+* Planning game Town cards - TO ADD
+* A town profile - TO ADD
+* A score sheet - TO ADD
+* An Investment plan - TO ADD
+* Something to represent money
+* Pens to write on A4 paper
+* Spare paper
+* Flip charts with paper
+* Flip chart pens
+* Prizes
+
+## Facilitators needed
+
+TO ADD
 
 ---
 # Licence
