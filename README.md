@@ -59,7 +59,8 @@ A new Regional Mayor has been elected. They want to make their mark, so they hav
 
 It’s time for teams to create a Local Plan for their town based on your previous decisions. After this round, you will present it to the rest of the room.
 
-LINK TO ROUND RULES IN MARKDOWN, LINK TO FACILITATORS GUIDE FOR ROUND 4
+- [Round 4 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-4.md)
+- Facilitator guide (TO ADD)
 
 ## Materials and printouts needed
 
