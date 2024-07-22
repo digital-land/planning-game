@@ -52,7 +52,8 @@ In this round, teams will create an Investment Plan to meet their community's ne
 
 A new Regional Mayor has been elected. They want to make their mark, so they have new priorities they want all towns to meet. This presents a new challenge for the teams to adapt their strategies and meet these new priorities.
 
-LINK TO ROUND RULES IN MARKDOWN, LINK TO FACILITATORS GUIDE FOR ROUND 3
+- [Round 3 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-3.md)
+- Facilitator guide (TO ADD)
 
 ### Round 4: Create Your Local Plan (20mins)
 
