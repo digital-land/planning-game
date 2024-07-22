@@ -38,29 +38,25 @@ In this round, teams will create and name their towns.
 
 They will learn more about the needs of their community and start to gather ideas about improving their towns
 
-- [Round 1 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-1.md)
-- Facilitator guide (TO ADD)
+[Round 1 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-1.md)
 
 ### Round 2 Growing Your Town. (20mins)
 
 In this round, teams will create an Investment Plan to meet their community's needs, the development priorities they have identified, and their policies. 
 
-- [Round 2 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-2.md)
--  Facilitator guide (TO ADD)
+[Round 2 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-2.md)
 
 ### Round 3: New Mayor, new priorities (20mins)
 
 A new Regional Mayor has been elected. They want to make their mark, so they have new priorities they want all towns to meet. This presents a new challenge for the teams to adapt their strategies and meet these new priorities.
 
-- [Round 3 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-3.md)
-- Facilitator guide (TO ADD)
+[Round 3 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-3.md)
 
 ### Round 4: Create Your Local Plan (20mins)
 
 It’s time for teams to create a Local Plan for their town based on your previous decisions. After this round, you will present it to the rest of the room.
 
-- [Round 4 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-4.md)
-- Facilitator guide (TO ADD)
+[Round 4 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-4.md)
 
 ## Materials and printouts needed
 
@@ -70,7 +66,6 @@ It’s time for teams to create a Local Plan for their town based on your previo
 * A set of planning game tiles - TO ADD
 * Planning game Town cards - TO ADD
 * [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
-* A town profile - TO ADD
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
 * Something to represent money
@@ -80,9 +75,18 @@ It’s time for teams to create a Local Plan for their town based on your previo
 * Flip chart pens
 * Prizes
 
-## Facilitators needed
+## The Planning Game Facilitation
 
-TO ADD
+You will need
+
+* Someone to introduce the rounds
+* At least one additional facilitator to hand out items and check on teams
+* Someone to play the mayor.
+
+Each group will get one of three different towns and corresponding tiles, cards and profiles
+This game is in 4 rounds, and there are different items given out in each.
+
+Please read the facilitator's guide carefully. ADD GUIDE LINK
 
 ---
 # Licence
