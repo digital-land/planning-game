@@ -11,7 +11,7 @@ A Fun game about Planning where players will explore
 - planning complexity and trade-offs
 - regional priorities
 
--Add Photo of people playing the game-
+<img src="PlanningGamePlay.jpg">
   
 ## Who is it for
 
