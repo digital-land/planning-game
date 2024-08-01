@@ -92,7 +92,7 @@ You will need
 Each group will get one of three different towns and corresponding tiles, cards and profiles
 This game is in 4 rounds, and there are different items given out in each.
 
-Please read the facilitator's guide carefully. ADD GUIDE LINK
+Please read the [facilitator notes carefully](https://github.com/digital-land/planning-game/blob/main/Facilitator%20notes%20for%20The%20Planning%20game.pdf).
 
 ---
 # Licence
