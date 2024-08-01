@@ -73,7 +73,7 @@ Each team presents their local plan to the whole room. Everyone will be expected
 * [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
-* [Score Sheet (printable pdf)]([https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf](https://github.com/digital-land/planning-game/blob/main/Score%20sheet.pdf))
+* [Score Sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Score%20sheet.pdf)
 * Something to represent money
 * Pens to write on A4 paper
 * Spare paper
