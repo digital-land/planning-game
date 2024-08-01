@@ -65,11 +65,11 @@ Each team presents their local plan to the whole room. Everyone will be expected
 ## Materials and printouts needed
 
 ## Each table will need
-(Don't put it all out at the same time, refer to the facilitators guide for when to hand out the different materials)
+(Don't put it all out at the same time, refer to the facilitator guide for when to hand out the different materials)
 
 * [Rules for all 4 rounds (printable pdf)](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20game%20All%20Round%20rules.pdf)
-* A set of planning game tiles - TO ADD
-* Planning game Town cards - TO ADD
+* A set of 20 planning game tiles (there are 3 different sets) [Commuter Town Tiles](https://github.com/digital-land/planning-game/blob/main/CommuterTownTiles.pdf), Seen Better Days, Inner City Life.
+* A set of Planning game Town cards - TO ADD
 * [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
