@@ -62,18 +62,30 @@ It’s time for teams to create a Local Plan for their town based on your previo
 
 Each team presents their local plan to the whole room. Everyone will be expected to score based on five different categories.
 
-## Materials and printouts needed
+## Materials and printouts
 
-## Each table will need
-(Don't put it all out at the same time, refer to the facilitator guide for when to hand out the different materials)
+### To Print (one for each table) ### 
+
+Most of these are A4 pdfs, apart from A5 Town Cards and hexagonal tiles.
 
 * [Rules for all 4 rounds (printable pdf)](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20game%20All%20Round%20rules.pdf)
-* A set of 20 planning game tiles (there are 3 different sets) [Commuter Town Tiles](https://github.com/digital-land/planning-game/blob/main/CommuterTownTiles.pdf), [Seen Better Days](https://github.com/digital-land/planning-game/blob/main/SeenBetterDaysTiles.pdf), [Inner City Life](https://github.com/digital-land/planning-game/blob/main/InnerCityLifeTiles.pdf).
-* [A set of Planning game Town cards](https://github.com/digital-land/planning-game/blob/main/PlanningGameTownCards.pdf)
+* A set of 20 hexagonal planning game tiles (there are 3 different sets) [Commuter Town Tiles](https://github.com/digital-land/planning-game/blob/main/CommuterTownTiles.pdf), [Seen Better Days](https://github.com/digital-land/planning-game/blob/main/SeenBetterDaysTiles.pdf), [Inner City Life](https://github.com/digital-land/planning-game/blob/main/InnerCityLifeTiles.pdf).
+* [A set of Planning game Town cards (printable pdf)](https://github.com/digital-land/planning-game/blob/main/PlanningGameTownCards.pdf)
 * [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
+
+### Enough for each person in the room ### 
+
 * [Score Sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Score%20sheet.pdf)
+
+### Enough for each facilitator ### 
+
+* [facilitator notes](https://github.com/digital-land/planning-game/blob/main/FacilitatorNotesPlanningGame.pdf)
+
+### Other materials needed ### 
+
+* Google Slides (TO ADD)
 * Something to represent money
 * Pens to write on A4 paper
 * Spare paper
