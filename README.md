@@ -23,14 +23,14 @@ This is a big room game that needs a minimum of X teams sitting on different tab
 
 It should include:
 
-* Introduction to planning
-* Introduction to the game mechanics
-* Four 20-minute rounds
-* Presentations
-* Group voting
-* Awards
+1. Introduction to planning
+2. Introduction to the game mechanics
+3. Four 20-minute rounds
+4. Presentations
+5. Group voting
+6. Awards
 
-## The four Rounds
+## The four rounds
 
 ### Round 1 Make Your Town (20mins)
 
