@@ -61,6 +61,7 @@ It’s time for teams to create a Local Plan for their town based on your previo
 ## Materials and printouts needed
 
 ## Each table will need
+(Don't put it all out at the same time, refer to the facilitators guide for when to hand out the different materials)
 
 * [Rules for all 4 rounds (printable pdf)](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20game%20All%20Round%20rules.pdf)
 * A set of planning game tiles - TO ADD
@@ -68,6 +69,7 @@ It’s time for teams to create a Local Plan for their town based on your previo
 * [Town profiles (three different towns, printable pdf](https://github.com/digital-land/planning-game/blob/main/Town%20profiles.pdf)
 * [Town information and score sheet (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Town%20information%20Town%20scores.pdf)
 * [Town Investment plan (printable pdf)](https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf)
+* [Score Sheet (printable pdf)]([https://github.com/digital-land/planning-game/blob/main/Investment%20plan.pdf](https://github.com/digital-land/planning-game/blob/main/Score%20sheet.pdf))
 * Something to represent money
 * Pens to write on A4 paper
 * Spare paper
