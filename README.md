@@ -58,6 +58,10 @@ It’s time for teams to create a Local Plan for their town based on your previo
 
 [Round 4 Rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-4.md)
 
+### Presentations (5 mins per team)
+
+Each team presents their local plan to the whole room. Everyone will be expected to score based on five different categories.
+
 ## Materials and printouts needed
 
 ## Each table will need
