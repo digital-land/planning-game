@@ -85,7 +85,7 @@ Most of these are A4 pdfs, apart from A5 Town Cards and hexagonal tiles.
 
 ### Other materials needed ### 
 
-* Google Slides (TO ADD)
+* [Slides](https://github.com/digital-land/planning-game/blob/main/The%20Planning%20Game.pptx) (in Power Point format, can be uploaded to other programmes)
 * Something to represent money
 * Pens to write on A4 paper
 * Spare paper
