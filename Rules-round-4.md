@@ -1,10 +1,10 @@
-# Round 4: Create your local plan (20mins)
+# Round 4: Create your Local Plan (20mins)
 
-It’s time to create your local plan based on your previous decisions. After this round, you will present it to the rest of the room.
+It’s time to create your Town's Local Plan based on your previous decisions. After this round, you will present it to the rest of the room.
 
 ---
 
-### On a flipchart, summarise your plan 
+### On a flipchart, summarise your Local Plan
 
 Use the following six headings:
 
@@ -15,7 +15,7 @@ Use the following six headings:
 5. Funding
 6. Community health & well-being
 
-Create realistic examples that demonstrate how your plan:
+Create realistic examples that demonstrate how your Local Plan:
 
 * meets planning guidelines
 * uses data to inform decision-making
