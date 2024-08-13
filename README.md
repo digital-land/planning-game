@@ -52,15 +52,15 @@ A new regional mayor has been elected. They want to make their mark, so they hav
 
 [Round 3 rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-3.md).
 
-### Round 4: Create your local plan (20 mins)
+### Round 4: Create your Local Plan (20 mins)
 
-It’s time for teams to create a local plan for their town based on their previous decisions. After this round, they will present it to the rest of the room.
+It’s time for teams to create a Local Plan for their town based on their previous decisions. After this round, they will present it to the rest of the room.
 
 [Round 4 rules](https://github.com/digital-land/planning-game/blob/main/Rules-round-4.md).
 
 ### Presentations (5 mins per team)
 
-Each team presents their local plan to the whole room. Everyone will be expected to score based on five different categories.
+Each team presents their Local Plan to the whole room. Everyone will be expected to score based on five different categories.
 
 ## Materials and printouts
 
